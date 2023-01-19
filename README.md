@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madushanjoel98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Creating new things
+- 🌱 I’m currently learning the whole world 🌎
 -
 <!---
 madushanjoel98/madushanjoel98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
