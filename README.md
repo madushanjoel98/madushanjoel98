@@ -1,6 +1,6 @@
 <h1>Madushan joel</h1>
 <h3>Software Engineer</h3>
-<p> Experienced software developer with a proven track record in developing efficient and reliable applications. I am employed at  Sri Lankan leading finance company , utilizing my expertise in the Spring Boot framework, JSP, and Java
+<p> Experienced software developer with a proven track record in developing efficient and reliable applications. I am Software Engineer at  Sri Lankan leading finance company , utilizing my expertise in the Spring Boot framework, JSP, and Java
   Web Servlet to deliver innovative solutions. </p>
 <p> Let's connect and collaborate on exciting software projects!</p>
 
