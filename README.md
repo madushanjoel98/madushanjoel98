@@ -12,6 +12,8 @@
     <li> <b>Springboot ♨</b> </li>
     <li> <b>Python🐍</b> </li>
     <li> <b>PHP 🐘</b> </li>
+    <li> <b>C#</b> </li>
+    <li> <b>Javascript</b> </li>
    <li> <b>MySQL</b> </li>
 </ul>
 
