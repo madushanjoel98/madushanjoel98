@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-</head>
-<body>
-    
-
 <h1>Madushan joel</h1>
 <h3>Software Engineer</h3>
 <p> Experienced software developer with a proven track record in developing efficient and reliable applications. I am Software Engineer at  Sri Lankan leading finance company , utilizing my expertise in the Spring Boot framework, JSP, and Java
@@ -34,9 +23,13 @@
   </td>
 </tr>
 </table>
+
+
+
 <h2>Show Case projects</h2>
 <ul>
-<li><a class="btn btn-primary" href="https://github.com/madushanjoel98/KU_FAMS_Project">Fixed Assests mangment System</a></li>
+    
+<li><a style="  background-color: blue;" href="https://github.com/madushanjoel98/KU_FAMS_Project">Fixed Assests mangment System</a></li>
 <li><a  class="btn btn-primary" href="https://github.com/madushanjoel98/bgRemove_Service">Background Removal service</a></li>
   <li><a  class="btn btn-primary" href="https://github.com/madushanjoel98/InventoryMangment">Inventory Mangment system</a></li>
 </ul>
@@ -52,6 +45,3 @@
    <li> <b>MySQL</b> </li>
 </ul>
 
-
-</body>
-</html>
