@@ -28,10 +28,10 @@
 
 <h2>Show Case projects</h2>
 <ul>
-    
+<li><a style="  background-color: blue;" href="https://github.com/madushanjoel98/flask_template">Flask Template</a></li>    
 <li><a style="  background-color: blue;" href="https://github.com/madushanjoel98/KU_FAMS_Project">Fixed Assests mangment System</a></li>
 <li><a  class="btn btn-primary" href="https://github.com/madushanjoel98/bgRemove_Service">Background Removal service</a></li>
-  <li><a  class="btn btn-primary" href="https://github.com/madushanjoel98/InventoryMangment">Inventory Mangment system</a></li>
+<li><a  class="btn btn-primary" href="https://github.com/madushanjoel98/InventoryMangment">Inventory Mangment system</a></li>
 </ul>
 
 <h2>Programming Knowledge</h2>
